@@ -78,7 +78,7 @@ Once both the frontend and backend servers are running, open the frontend in you
 The frontend is deployed to Vercel, and you can access the live version of the game here: [Tic-Tac-Toe Live](https://tic-tac-toe-online-multiplayer-game.vercel.app/).
 
 ### Backend:
-The backend is deployed to Render, and you can access the live backend here: [Backend Render URL].
+The backend is deployed to Render, and you can access the live backend here: [Backend Render URL](https://tic-tac-toe-multiplayer-online-server.onrender.com/).
 
 ## Contribution
 Feel free to fork this project and submit pull requests. Contributions are always welcome!
