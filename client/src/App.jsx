@@ -7,7 +7,8 @@ import Game from './components/Game'
 import Lobby from './components/Lobby'
 
 // Create socket instance with reconnection options
-const socket = io('http://localhost:3001', {
+// const socket = io('http://localhost:3001', {
+const socket = io('https://tic-tac-toe-multiplayer-online-server.onrender.com', {
   reconnection: true,
   reconnectionAttempts: 5,
   reconnectionDelay: 1000,
