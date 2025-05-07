@@ -33,7 +33,7 @@ This is a real-time, multiplayer Tic-Tac-Toe game built with WebSockets. Players
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-online-multiplayer-game.git
+https://github.com/Bharaneedharan-K/Tic-Tac-Toe-Multiplayer-Online.git
 cd tic-tac-toe-online-multiplayer-game
 ```
 
@@ -41,7 +41,7 @@ cd tic-tac-toe-online-multiplayer-game
 Navigate to the `frontend` folder and install dependencies:
 
 ```bash
-cd frontend
+cd client
 npm install
 ```
 
@@ -57,14 +57,14 @@ This will start the React app on `http://localhost:3000`.
 Navigate to the `backend` folder and install dependencies:
 
 ```bash
-cd backend
+cd server
 npm install
 ```
 
 Start the backend server:
 
 ```bash
-npm run dev
+npm stare
 ```
 
 This will start the server on `http://localhost:3001`.
