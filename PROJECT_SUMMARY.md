@@ -53,7 +53,7 @@ This project is a **real-time, online multiplayer Tic-Tac-Toe game** that allows
 | Layer     | Platform  | URL |
 |-----------|-----------|-----|
 | **Frontend** | Vercel | [https://tic-tac-toe-online-multiplayer-game.vercel.app](https://tic-tac-toe-online-multiplayer-game.vercel.app) |
-| **Backend** | Render  | _Your backend Render URL here_ |
+| **Backend** | Render  | [https://tic-tac-toe-multiplayer-online-server.onrender.com/](https://tic-tac-toe-multiplayer-online-server.onrender.com/) |
 
 ---
 
